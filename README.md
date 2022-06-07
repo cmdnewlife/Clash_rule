@@ -1,5 +1,5 @@
 # Clash_rule
-自制的clash分流规则策略组</br>
+自制的clash分流规则策略组|仍在建设中</br>
 内容自用，仅供参考;</br>
 推荐自学地址：</br>
 https://yattazen.com/tutorial/clash-custom-config.html</br>
